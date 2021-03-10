@@ -1,6 +1,6 @@
 # Front end mentor challenges
 
-# ![](/home/mehmet/Documents/Development/JavaScript/front-end-mentor/front-end-mentor.png)
+# ![](https://cdn1.betapage.co/images/167056979-167057084.jpg)
 
 ## About the repository:
 
