@@ -6,5 +6,4 @@
 
 This repository is a collection of front-end challenges posted by front-end mentor community.
 
-**Note:** to see the live demo for the challenges insides check [Here] (https://mechitoua.netlify.app)
-
+**Note:** to see the live demo for the challenges insides check [**Live demo**] (https://mechitoua.netlify.app).
