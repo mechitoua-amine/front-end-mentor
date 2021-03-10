@@ -8,5 +8,5 @@ This repository is a collection of front-end challenges posted by front-end ment
 
 **Note:** to see the live demo for the challenges insides check the link below
 
-[Live Demo]: (mechitoua.netlify.app)
+[Live Demo]: (https://mechitoua.netlify.app)
 
